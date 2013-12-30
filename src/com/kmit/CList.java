@@ -14,7 +14,7 @@ public class CList extends ListActivity {
     /** Called when the activity is first created. */
 	
 	//step-1
-	final String[] carr=new String[]{"CBIT","VASAVI","KMIT","CVR","MVSR"};
+	final String[] carr=new String[]{"CBIT","VASAVI","KMIT","CVR","MVSR"};//college names
 	final String[] larr=new String[]{"Gandipet","Langar House","Naryanaguda","Ghatkeshar","Nadargul"};
     @Override
     public void onCreate(Bundle savedInstanceState) {
